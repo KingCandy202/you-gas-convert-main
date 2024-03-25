@@ -1,0 +1,35 @@
+{
+  "name": "you-gas-convert",
+  "version": "1.0.0",
+  "description": "you-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KingCandy202/you-gas-convert.git"
+  },
+  "keywords": [
+    "you-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "KingCandy202",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KingCandy202/you-gas-convert/issues"
+  },
+  "homepage": "https://github.com/KingCandy202/you-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "you-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+	"excel-utils-phuongdh": "^1.0.1",
+	"file-operations-dhp": "^1.0.2"
+  }
+}
